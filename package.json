@@ -1,0 +1,26 @@
+{
+  "name": "heart-sutra",
+  "version": "1.0.0",
+  "description": "资料文档系统",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailylqj/sutra.git"
+  },
+  "author": "Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailylqj/sutra/issues"
+  },
+  "homepage": "https://github.com/mailylqj/sutra#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
+}
